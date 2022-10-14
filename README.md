@@ -34,10 +34,16 @@ Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
+<img width="794" alt="Screen Shot 2022-10-13 at 11 40 39 PM" src="https://user-images.githubusercontent.com/106892740/195779595-c1ed45c1-3026-4c94-9165-535e63ebbd39.png">
 
+<img width="1014" alt="Screen Shot 2022-10-13 at 11 41 44 PM" src="https://user-images.githubusercontent.com/106892740/195780001-4b9f79a4-4518-41e0-b638-7f21ade118bc.png">
 
 Were you able to achieve the target model performance?
 
+<img width="1053" alt="Screen Shot 2022-10-13 at 11 44 26 PM" src="https://user-images.githubusercontent.com/106892740/195780187-c1d6e2b9-5626-4dcc-b9fc-da0535946973.png">
+
+
+<img width="831" alt="Screen Shot 2022-10-13 at 11 43 13 PM" src="https://user-images.githubusercontent.com/106892740/195780034-a93ddded-9c41-4ac8-b6dc-2fdfde1085af.png">
 
 What steps did you take to try and increase model performance?
 
