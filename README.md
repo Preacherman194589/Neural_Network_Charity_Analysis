@@ -43,12 +43,13 @@ Were you able to achieve the target model performance?
 <img width="1053" alt="Screen Shot 2022-10-13 at 11 44 26 PM" src="https://user-images.githubusercontent.com/106892740/195780187-c1d6e2b9-5626-4dcc-b9fc-da0535946973.png">
 
 
-<img width="831" alt="Screen Shot 2022-10-13 at 11 43 13 PM" src="https://user-images.githubusercontent.com/106892740/195780034-a93ddded-9c41-4ac8-b6dc-2fdfde1085af.png">
 
 What steps did you take to try and increase model performance?
 
+<img width="831" alt="Screen Shot 2022-10-13 at 11 43 13 PM" src="https://user-images.githubusercontent.com/106892740/195780034-a93ddded-9c41-4ac8-b6dc-2fdfde1085af.png">
 
 
+<img width="847" alt="Screen Shot 2022-10-13 at 11 45 49 PM" src="https://user-images.githubusercontent.com/106892740/195780407-7ef16cc4-ecc7-4031-95f9-3881824b324b.png">
 
 ## Summary: 
 
