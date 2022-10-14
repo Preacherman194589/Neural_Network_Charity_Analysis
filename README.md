@@ -2,6 +2,8 @@
 
 ## Overview of the analysis: 
 
+Beks- a Data Scientis/Programmer for AlphabetSoup- an orgazation that has donated over a billion dollars to oragazation and foundation that help the envirnement,the wellbeings of others and unnified/beutify the world. The CEO asked Beks if she could conduct an analysiszation on every oragazation and foundation that they donated to
+
 Explain the purpose of this analysis.
 
 ## Results: 
