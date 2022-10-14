@@ -2,7 +2,17 @@
 
 ## Overview of the analysis: 
 
-Beks- a Data Scientis/Programmer for AlphabetSoup- an orgazation that has donated over a billion dollars to oragazation and foundation that help the envirnement,the wellbeings of others and unnified/beutify the world. The CEO asked Beks if she could conduct an analysiszation on every oragazation and foundation that they donated to
+Beks- a Data Scientis/Programmer for AlphabetSoup- an orgazation that has donated over a billion dollars to oragazation and foundation that help the envirnement,the wellbeings of others and unified/beutify the world. The CEO asked Beks if she could analyize and vet every oragazation and foundation that they donated too and predict where to make investments. 
+
+Beks has received dataset with over 34,000 organizations that have received funding from Alphabet. The CEO asked Beks if she could:
+
+1. Determine which orgazation / foundation to donate too
+2. Determine which orgazation/ Foundation is a high risk?  
+
+With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+
+From Alphabet Soup’s business team, 
+
 
 Explain the purpose of this analysis.
 
