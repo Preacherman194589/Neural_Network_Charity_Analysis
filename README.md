@@ -13,35 +13,40 @@ Beks has received a dataset with over 34,000 organizations that have received fu
 
 Data Preprocessing
 
-What is variable(s) considered the target(s) for your model?
-
-After receiving the dataset, we determine that there where several columns that was not needed to inquiry the information that was asked. So, we dropped EIN and Names columns. 
+**What is variable(s) considered the target(s) for your model?**
 
 Once we dropped the columns when then looked at the number of foundations or organization that recieved over 100 applications. When then targeted those organzaitons that where successful based on conisirediton and completion. 
 
 <img width="1004" alt="Screen Shot 2022-10-13 at 11 38 12 PM" src="https://user-images.githubusercontent.com/106892740/195779279-8902532f-7024-499c-9578-7bf5bcb510b4.png">
 
 
-What variable(s) are considered to be the features for your model?
+**What variable(s) are considered to be the features for your model?**
 
 As for the feature it was based on the apllications success. Both the target and the features dealt with the aplliacted and their success to help determine the accuracy of the Neural Network and machine learning models
 
-
 <img width="1027" alt="Screen Shot 2022-10-13 at 10 52 50 PM" src="https://user-images.githubusercontent.com/106892740/195777869-3e62da71-9ff8-47af-aa69-d38635b343f4.png">
 
-What variable(s) are neither targets nor features and should be removed from the input data?
+**What variable(s) are neither targets nor features and should be removed from the input data?**
+
+
+After receiving the dataset, we determine that there where several columns that was not needed to inquiry the information that was asked. So, we dropped EIN and Names columns. 
 
 <img width="1012" alt="Screen Shot 2022-10-12 at 8 12 56 PM" src="https://user-images.githubusercontent.com/106892740/195490823-4421c76e-d33d-4f4d-8fee-015cf88a086a.png">
-
 
 Compiling, Training, and Evaluating the Model
 
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+**How many neurons, layers, and activation functions did you select for your neural network model, and why?**
 
+I started out with 10 neurons on the first hidden layer and 8 neurons on the second hidden layer and used the relu(Rectified Linear Unit) activation on both as the input features. As for the output or the last hidden layer, I used the sigmoid(S-Curve) as the activation. 
 
+I was trying to have the model to input postive numbers and output negative numbers to get to an accuracy number to determine the success and failure of the dataset. Once the input in formulated based on the number of times it was asked to push, the ouput then displays the percentage of accuracy. Below you see the compiling, training and evlaiating the testing of the data. 
 
-<img width="1014" alt="Screen Shot 2022-10-13 at 11 41 44 PM" src="https://user-images.githubusercontent.com/106892740/195780001-4b9f79a4-4518-41e0-b638-7f21ade118bc.png">
+It appears that the accuracy is 
+
+<img width="1023" alt="Screen Shot 2022-10-14 at 6 31 30 PM" src="https://user-images.githubusercontent.com/106892740/195963113-445354b1-df25-4348-8be4-be58f69dc9a3.png">
+
+<img width="832" alt="Screen Shot 2022-10-14 at 6 33 02 PM" src="https://user-images.githubusercontent.com/106892740/195963141-99b501c9-4510-485c-8ade-2afea000920d.png">
 
 Were you able to achieve the target model performance?
 
